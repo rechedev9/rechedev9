@@ -13,7 +13,7 @@
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 
-> Fullstack developer focused on TypeScript, React, and Node.js — with a strong emphasis on code quality, testing, and continuous delivery. Agile-trained and AI-augmented.
+> Fullstack Product Engineer. Deep in agentic AI-coding mode.
 
 ## Current Projects
 
@@ -72,7 +72,7 @@
 <summary>Random Facts</summary>
 
 - Native in Spanish and Catalan
-- Trained in Agile methodology
+- Love videogames but I've never played Zelda
 - Powered by Claude Code and parallel agent workflows
 - Obsessed with shaving milliseconds off API response times
 
