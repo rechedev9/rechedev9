@@ -24,10 +24,6 @@
 - 📐 **[SDD Workflow](https://github.com/rechedev9/sdd-workflow)** — Spec-Driven Development for Claude Code — structured AI coding that doesn't forget, doesn't hallucinate, and doesn't skip steps.
 - 🌐 **[Portfolio](https://luisreche.dev)** ([repo](https://github.com/rechedev9/portfolio)) — Terminal-style portfolio with Matrix pill choice mechanic.
 
-### Professional Work
-
-- 🕹️ **[Berrus App](https://berrus.app)** — Fullstack freelance: post-apocalyptic RPG marketplace with Discord integration for Steam release (Q1 2027). Webhook notifications with 99.2% delivery & <80ms latency, 53% faster SQL queries, 500+ notifications/hour.
-
 ### Legacy
 
 - 🏋️ **[VanillaGravity](https://github.com/rechedev9/VanillaGravity)** — GZCLP Tracker rebuilt from scratch with vanilla TypeScript, raw SQL, Bun.serve, and plain CSS — no frameworks, no abstractions.
