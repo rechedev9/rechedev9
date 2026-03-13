@@ -24,10 +24,6 @@
 - 📐 **[SDD Workflow](https://github.com/rechedev9/sdd-workflow)** — Spec-Driven Development for Claude Code — structured AI coding that doesn't forget, doesn't hallucinate, and doesn't skip steps.
 - 🌐 **[Portfolio](https://luisreche.dev)** ([repo](https://github.com/rechedev9/portfolio)) — Terminal-style portfolio with Matrix pill choice mechanic.
 
-### Legacy
-
-- 🏋️ **[VanillaGravity](https://github.com/rechedev9/VanillaGravity)** — GZCLP Tracker rebuilt from scratch with vanilla TypeScript, raw SQL, Bun.serve, and plain CSS — no frameworks, no abstractions.
-
 ## What I'm Doing
 
 - **Shipping quality-first apps** — Testing, type safety, and CI/CD are non-negotiable in every project I build
