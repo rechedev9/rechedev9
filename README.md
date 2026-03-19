@@ -17,7 +17,7 @@
 
 ## Current Projects
 
-- 🏋️ **[Gravity Room](https://gravityroom.app)** ([repo](https://github.com/rechedev9/gravity-room)) — Bun monorepo with ElysiaJS API and React 19 SPA on Railway. JWT auth with token rotation & theft detection, Google OAuth, generic progression engine, Prometheus metrics, and structured logging.
+- 🏋️ **[Gravity Room](https://gravityroom.app)** ([repo](https://github.com/rechedev9/gravity-room)) — Bun monorepo with ElysiaJS API and React 19 SPA on my own VPS. JWT auth with token rotation & theft detection, Google OAuth, generic progression engine, Prometheus metrics, and structured logging.
 - 🎮 **[Berrus Helper](https://github.com/rechedev9/berrus-helper)** — Chrome extension (Manifest V3) with idle timers, price tracking with sparklines, and hiscores. 133+ tests, service worker message routing, and session management.
 - 🔧 **[Tealium MCP Server](https://github.com/rechedev9/tealium-mcp-server)** — Five MCP tools for validation, debugging, doc generation, code generation, and parsing. Zod schemas for e-commerce and hospitality sectors.
 - 🔐 **[Honey Encryption Proxy](https://github.com/rechedev9/honey-encryption-proxy)** — Local proxy for Claude Code that applies Format-Preserving Encryption and Honey Encryption to obfuscate proprietary source identifiers before they reach external servers.
