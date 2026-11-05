@@ -1,71 +1,64 @@
 # Hi, I'm Luis 👋
 
-📍 **Spain** | 💻 **Fullstack Software Developer** | 🚀 **Building quality-first web apps**
+📍 **Palma, Spain** | 🤖 **Applied AI Engineer** | 🚀 **From a customer's problem to an AI system in production**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Bun](https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 
-> Fullstack Product Engineer. Deep in agentic AI-coding mode.
+> Customers bring the problem. I ship the AI system that solves it and keep it running.
+> Open to applied AI and forward deployed engineering roles, remote from Palma. CV at [luisreche.dev](https://luisreche.dev).
 
-## Current Projects
+## Now
 
-- 🏋️ **[Gravity Room](https://gravityroom.app)** ([repo](https://github.com/rechedev9/gravity-room)) — Bun monorepo with Go API and React 19 SPA on my own VPS. JWT auth with token rotation & theft detection, Google OAuth, generic progression engine, Prometheus metrics, and structured logging.
-- 🎮 **[Berrus Helper](https://github.com/rechedev9/berrus-helper)** — Chrome extension (Manifest V3) with idle timers, price tracking with sparklines, and hiscores. 133+ tests, service worker message routing, and session management.
-- 🔧 **[Tealium MCP Server](https://github.com/rechedev9/tealium-mcp-server)** — Five MCP tools for validation, debugging, doc generation, code generation, and parsing. Zod schemas for e-commerce and hospitality sectors.
-- 🔐 **[Honey Encryption Proxy](https://github.com/rechedev9/honey-encryption-proxy)** — Local proxy for Claude Code that applies Format-Preserving Encryption and Honey Encryption to obfuscate proprietary source identifiers before they reach external servers.
-- 📐 **[SDD Workflow](https://github.com/rechedev9/sdd-workflow)** — Spec-Driven Development for Claude Code — structured AI coding that doesn't forget, doesn't hallucinate, and doesn't skip steps.
-- 🌐 **[Portfolio](https://luisreche.dev)** ([repo](https://github.com/rechedev9/portfolio)) — Terminal-style portfolio with Matrix pill choice mechanic.
+- **Applied AI Software Engineer at [Agentero](https://www.agentero.com)** (since April 2026): an internal app that uses an LLM to partly automate month-end commission payments for a US network of insurance agents, and the Go and Next.js marketplace those agents use.
+- **Freelance for [SocialPro](https://socialpro.es)**: the public website, the brand portal, the CRM and an internal agent platform on top of it, with per-run budgets, risk-based policies and human approval before any action with external effects.
 
-## What I'm Doing
+## Projects
 
-- **Shipping quality-first apps** — Testing, type safety, and CI/CD are non-negotiable in every project I build
-- **Going deep on AI tooling** — Using Claude Code and MCP to accelerate development workflows
-- **Freelancing** — Building production systems with real performance and reliability constraints
-- **Always learning** — From Harvard CS50 to Anthropic's Claude Code course, constantly leveling up
+- 🎬 **[ClipHub](https://github.com/rechedev9/cliphub)**: a Windows app that turns a Counter-Strike 2 demo into an edited video of the player's best plays. 130+ releases through in-app updates.
+- 🏋️ **[Gravity Room](https://gravityroom.app)** ([repo](https://github.com/rechedev9/gravity-room)): a free strength training app for web and mobile. Bun monorepo with an Elysia API, PostgreSQL, a React 19 web app and an Expo mobile app, on my own VPS.
+- 🔐 **[Honey Encryption Proxy](https://github.com/rechedev9/honey-encryption-proxy)**: a local proxy for Claude Code that swaps proprietary identifiers for stand-ins before they leave the machine and restores them in the reply.
+- 🧪 **[riskforge](https://github.com/rechedev9/riskforge)**: a Go insurance quote gateway that asks several carriers in parallel, with circuit breakers, hedged requests and rate limits. A study project.
 
-## Tech Stack
+## Open source
+
+- [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk): [#1660](https://github.com/modelcontextprotocol/typescript-sdk/pull/1660), [#1653](https://github.com/modelcontextprotocol/typescript-sdk/pull/1653), [#1652](https://github.com/modelcontextprotocol/typescript-sdk/pull/1652)
+- [advancedfx/advancedfx](https://github.com/advancedfx/advancedfx): [#1194](https://github.com/advancedfx/advancedfx/pull/1194)
+
+## Stack
 
 | Layer | Tools |
 |---|---|
-| **Frontend** | React 19, TanStack Query, Tailwind CSS, Vite, Chrome Extensions (Manifest V3) |
-| **Backend** | Node.js, Bun, ElysiaJS, Express, REST APIs, Drizzle ORM, Zod, MCP |
-| **Databases** | PostgreSQL, MariaDB, MongoDB |
-| **DevOps** | Docker, GitHub Actions (CI/CD), Nginx, Playwright, ESLint, Prettier |
-| **Testing** | Bun Test, HappyDOM, Jest, Playwright (E2E) |
+| **AI and agents** | LLM agents with tool use, human approval gates, prompt injection defence, cost budgets, MCP, Claude Code, Codex |
+| **Backend** | Go, Bun, Elysia, PostgreSQL, Drizzle, SQLite |
+| **Web** | TypeScript, React, Next.js, TanStack, Astro, Tailwind CSS |
+| **Mobile and desktop** | Expo, React Native, Electron |
+| **Infrastructure** | Docker, GCP, Terraform, Vercel, GitHub Actions |
 
 ## Education
 
-- 🎓 **Advanced Diploma in Web App Development (DAW)** — 2024–2026
-- 🧠 **Harvard CS50: Intro to Computer Science** — 2024
-- 🤖 **Claude Code in Action** — Anthropic — 2026
+- 🎓 **Higher Technical Diploma in Web Application Development (DAW)**: 2024 to 2026
+- 🧠 **Harvard CS50: Introduction to Computer Science**: 2024
+- 🤖 **Claude Code in Action, Anthropic**: 2026
 
 ## Connect
 
-[![GitHub](https://img.shields.io/badge/-rechedev9-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rechedev9)
-[![LinkedIn](https://img.shields.io/badge/-Luis_Reche-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisrecheamado)
 [![Portfolio](https://img.shields.io/badge/-luisreche.dev-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://luisreche.dev)
+[![LinkedIn](https://img.shields.io/badge/-Luis_Reche-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisrecheamado)
 [![Email](https://img.shields.io/badge/-rechedev@hotmail.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:rechedev@hotmail.com)
 
----
-
-### Philosophy
-
-> "Quality is not an act, it is a habit." — I believe in shipping tested, well-structured code. Every project gets CI/CD, type safety, and proper test coverage from day one.
-
 <details>
-<summary>Random Facts</summary>
+<summary>Random facts</summary>
 
 - Native in Spanish and Catalan
+- Ten years in a pharmacy before I wrote code
 - Love videogames but I've never played Zelda
-- Powered by Claude Code and parallel agent workflows
-- Obsessed with shaving milliseconds off API response times
 
 </details>
